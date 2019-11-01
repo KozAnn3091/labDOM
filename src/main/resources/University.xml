@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<faculties>
+			<faculty>
+				<name> "ФРЭИ" </name>
+				<fullname> "Факультет радиоэлектроники и информатики" </fullname>
+				<departments> 
+					<department>
+						<name> "ВС" </name>
+						<fullname> "Вычислительные системы" </fullname>
+						
+					</department>
+					<department>
+						<name> "МПОЭВС" </name>
+						<fullname> "Математическое и программное обеспечение электронных вычислительных средств" </fullname>
+					</department>
+					<department>
+						<name> "ВМ" </name>
+						<fullname> "Высшая математика" </fullname>
+					</department>
+					<department>
+						<name> "ЭПЭ" </name>
+						<fullname> "Электротехника и промышленная электроника" </fullname>
+					</department>
+					<department>
+						<name> "РТС" </name>
+						<fullname> "Радиоэлектронные и телекоммуникационные системы" </fullname>
+					</department>
+				</departments> 
+				<groups>
+					<group>
+						<name> "ИВМ-19" </name>
+						<year> 2019 </year>
+						<students>
+							<student>
+								<name> "Козлова" </name>
+							</student>
+							<student>
+								<name> "Серякова" </name>
+							</student>
+							<student>
+								<name> "Медведев" </name>
+							</student>
+
+						</students>
+					</group>
+				</groups>
+			</faculty>	
+			<faculty>
+				<name> "СЭФ" </name>
+				<fullname> "Социально-экономический факультет" </fullname>
+				<departments> 
+					<department>
+						<name> "ЭМиЭИС" </name>
+						<fullname> "Экономика, менеджмент и экономические информационные системы" </fullname>
+					</department>
+					<department>
+						<name> "ФСКТиТ" </name>
+						<fullname> "Философия социально-культурных технологий и туризма" </fullname>
+					</department>
+					<department>
+						<name> "ИЯ" </name>
+						<fullname> "Иностранные языки" </fullname>
+					</department>
+					<department>
+						<name> "ФК" </name>
+						<fullname> "Физическая культура" </fullname>
+					</department>
+					<department>
+						<name> "ОПиУК" </name>
+						<fullname> "Организация производства и управления качеством" </fullname>
+					</department>
+				</departments>
+			</faculty>
+		</faculties>
+
+		
+
